@@ -1,0 +1,1 @@
+# Dummy msilib.py file to satisfy imports on non-Windows systems
